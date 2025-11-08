@@ -1,0 +1,5 @@
+{
+  "name": "Class Attendance Tracker",
+  "description": "A modern and responsive web application for tracking class attendance. Easily mark students as present, absent, or late, and view a summary at a glance.",
+  "requestFramePermissions": []
+}
